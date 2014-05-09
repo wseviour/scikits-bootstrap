@@ -1,6 +1,8 @@
 scikits-bootstrap
 =================
 
+Will's edit...
+
 Scikits.bootstrap provides bootstrap confidence interval algorithms for scipy.
 
 At present, it is rather feature-incomplete and in flux. However, the functions
